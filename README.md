@@ -920,6 +920,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VibeRaven Guides](https://viberaven.dev) `https://viberaven.dev/mcp`
   [![VibeRaven Guides MCP connector](https://glama.ai/mcp/connectors/io.github.ohad6k/viberaven-guides/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ohad6k/viberaven-guides)
   🔓 - Explains VibeRaven findings and returns launch guides and checklists for Vercel + Supabase apps, read-only.
+- [wealth-agent](https://wealth-agent.wealthagent-app.workers.dev) `https://wealth-agent.wealthagent-app.workers.dev/mcp`
+  [![wealth-agent MCP connector](https://glama.ai/mcp/connectors/io.github.jukky-source/wealth-agent/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jukky-source/wealth-agent)
+  🔓 - Pay-per-call utility tools over x402 plus a free tier: research briefs, CSV cleanup, code review, regex.
 - [web3ctx](https://web3ctx.scarai.xyz) `https://mcp.scarai.xyz/mcp`
   [![web3ctx MCP connector](https://glama.ai/mcp/connectors/io.github.FarseenSh/web3ctx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.FarseenSh/web3ctx)
   🔓 - Version-true web3 context: validated integration recipes, EIPs, ABIs and contract addresses.
@@ -3442,7 +3445,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) – servers you run locally
 * [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) – clients that speak MCP
 * [glama.ai/mcp/connectors](https://glama.ai/mcp/connectors) – searchable directory of remote servers
-- [wealth-agent](https://github.com/jukky-source/wealth-agent) - Pay-per-call MCP tools over x402 plus a free tier. Streamable HTTP, no account or API key. [Live](https://wealth-agent.wealthagent-app.workers.dev)
 
 ## Contributing
 
